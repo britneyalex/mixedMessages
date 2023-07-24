@@ -19,3 +19,9 @@ body {
     background-color: rgc(192, 191, 191);
 }
 
+#output {
+    margin: 25px auto;
+    font-size: 26px;
+    color: white;
+}
+
